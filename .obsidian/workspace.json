@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "8c742d9bf1d1e69d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96bf7f490d6c6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dfd8f5fac320e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "514d98df4fbb8e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "543bacda587bf8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98838f239e2a11f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "df6dac17c800c377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "48c69eaf63edd788",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bf39144d17c305d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03bf37bc4ff7549b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1139f08405f200c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "09770238d785f273",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "0c9bf9ceaed8035b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "92709723bdc63f4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "23dfd8f5fac320e1",
+  "lastOpenFiles": [
+    "Ligas a doc oficial AWS.md",
+    "Inbest.md",
+    "historial de tikets global.md",
+    "Github.md",
+    "DocumentacionProcesosAzure.md",
+    "DocumentacionProcesosAWS.md",
+    "Docs.md",
+    "Cursos inbest.md",
+    "Codigos.md",
+    "Bienvenido a Tus notas.md",
+    "AWS Practitioner.md",
+    "TIKETS/EVIDENCIAS/metricasinstancias.md",
+    "TIKETS/EVIDENCIAS/info completa DNS berel.pdf",
+    "TIKETS/EVIDENCIAS/info completa DNS berel.md",
+    "TIKETS/EVIDENCIAS",
+    "TIKETS/IBSD19-40880.md",
+    "TIKETS/IBSD19-40866.md",
+    "TIKETS/IBSD19-40746.md",
+    "TIKETS/IBSD19-40714.md",
+    "TIKETS/IBSD19-40649.md",
+    "TIKETS/IBSD19-40515.md",
+    "TIKETS/IBSD19-40515 redpack.md",
+    "TIKETS",
+    "PROCESOS TECNICOS VARIOS/Procesos técnicos no relacionados a la nube.md",
+    "PROCESOS TECNICOS VARIOS/DocumentacionProcesosEspeciales.md",
+    "PROCESOS TECNICOS VARIOS/CreacionDrepos.md",
+    "PROCESOS TECNICOS VARIOS/Creación de usuarios AD o local.md",
+    "PROCESOS TECNICOS VARIOS",
+    "PROCESOS AZURE/Sonarquebe AKS.md",
+    "PROCESOS AZURE/InstalarBackup.md",
+    "PROCESOS AZURE",
+    "PROCESOS AWS",
+    "FOTOS/Pasted image 20250128122057.png",
+    "FOTOS/Pasted image 20250128121317.png",
+    "FOTOS/Pasted image 20250128121236.png",
+    "FOTOS/Pasted image 20250128121037.png",
+    "FOTOS/Pasted image 20250128120715.png",
+    "FOTOS/Pasted image 20250128120558.png",
+    "FOTOS/Pasted image 20250128120532.png",
+    "FOTOS/Pasted image 20250123195936.png",
+    "FOTOS/Pasted image 20250123195934.png",
+    "FOTOS/Pasted image 20250123195934 1.png",
+    "FOTOS",
+    "EZZTUDIOO",
+    "Clippings"
+  ]
+}
