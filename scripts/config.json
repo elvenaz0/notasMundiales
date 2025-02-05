@@ -1,0 +1,7 @@
+{
+    "VPN_NAME": "MiVPN",
+    "SERVER_ADDRESS": "vpn.ejemplo.com",
+    "TUNNEL_TYPE": "Ikev2",
+    "AUTH_METHOD": "Eap",
+    "ENCRYPTION_LEVEL": "Required"
+}

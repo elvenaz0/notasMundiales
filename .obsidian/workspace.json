@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f96bf7f490d6c6a5",
+        "id": "2f7ca3446babcabf",
         "type": "tabs",
         "children": [
           {
-            "id": "23dfd8f5fac320e1",
+            "id": "fbf050d27122abaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EZZTUDIOO/Temas Relebantes examenes AWS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Temas Relebantes examenes AWS"
+            }
+          },
+          {
+            "id": "f6742676db98f88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5
   },
   "right": {
     "id": "5bf39144d17c305d",
@@ -161,19 +180,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "23dfd8f5fac320e1",
+  "active": "f6742676db98f88a",
   "lastOpenFiles": [
+    "config.json",
+    "EZZTUDIOO/Temas Relebantes examenes AWS.md",
+    "Sin título.md",
+    "scripts",
+    "Cursos inbest.md",
+    "Codigos.md",
+    "DocumentacionProcesosAWS.md",
+    "Temario de certificados AWS.md",
+    "EZZTUDIOO/zztudio.md",
+    "AWS Practitioner.md",
+    "Bienvenido a Tus notas.md",
+    "Minuta lucky.md",
     "Ligas a doc oficial AWS.md",
     "Inbest.md",
     "historial de tikets global.md",
     "Github.md",
     "DocumentacionProcesosAzure.md",
-    "DocumentacionProcesosAWS.md",
     "Docs.md",
-    "Cursos inbest.md",
-    "Codigos.md",
-    "Bienvenido a Tus notas.md",
-    "AWS Practitioner.md",
     "TIKETS/EVIDENCIAS/metricasinstancias.md",
     "TIKETS/EVIDENCIAS/info completa DNS berel.pdf",
     "TIKETS/EVIDENCIAS/info completa DNS berel.md",
@@ -186,13 +212,7 @@
     "TIKETS/IBSD19-40515.md",
     "TIKETS/IBSD19-40515 redpack.md",
     "TIKETS",
-    "PROCESOS TECNICOS VARIOS/Procesos técnicos no relacionados a la nube.md",
-    "PROCESOS TECNICOS VARIOS/DocumentacionProcesosEspeciales.md",
-    "PROCESOS TECNICOS VARIOS/CreacionDrepos.md",
-    "PROCESOS TECNICOS VARIOS/Creación de usuarios AD o local.md",
     "PROCESOS TECNICOS VARIOS",
-    "PROCESOS AZURE/Sonarquebe AKS.md",
-    "PROCESOS AZURE/InstalarBackup.md",
     "PROCESOS AZURE",
     "PROCESOS AWS",
     "FOTOS/Pasted image 20250128122057.png",
