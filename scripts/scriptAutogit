@@ -1,0 +1,28 @@
+@echo off
+rem =====================================
+rem git_commit_fecha.bat
+rem =====================================
+rem Obtiene la fecha actual en el formato local de Windows.
+rem Por ejemplo, en una configuración regional en español podría ser:
+rem "mié 18/02/2025" o "mier 18/02/2025"
+rem =====================================
+
+rem 1) Capturamos el resultado de "date /T" en dos partes:
+rem   - El día de la semana (p.e. "mié")
+rem   - El resto (p.e. "18/02/2025")
+FOR /F "tokens=1,2" %%i IN ('date /T') DO (
+    SET dayOfWeek=%%i
+    SET theDate=%%j
+)
+
+rem 2) Desglosamos "theDate" (p.e. "18/02/2025") en día, mes y año.
+rem   Ajusta delimitadores y tokens si tu configuración regional es distinta.
+FOR /F "tokens=1,2,3 delims=/" %%a IN ("%theDate%") DO (
+    SET dd=%%a
+    SET mm=%%b
+    SET yyyy=%%c
+)
+
+rem 3) Ejecutamos los comandos de Git:
+git add .
+git commit -m "%dd%-%mm%-%yyyy%"
